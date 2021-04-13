@@ -1,2 +1,3 @@
 git init
 exit
+A harmadik sorba beleírtam
